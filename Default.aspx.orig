@@ -10,7 +10,11 @@
     <form id="form1" runat="server">
     <div>
     my web
+<<<<<<< HEAD
+    <h1>git remote server</h1>uyguyg
+=======
     <h1>git remote server</h1>
+>>>>>>> dc189b3... new commit from VB
     </div>
     </form>
 </body>
